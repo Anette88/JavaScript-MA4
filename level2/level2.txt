@@ -1,0 +1,44 @@
+Level 2 Process
+
+1. What is the DOM?
+
+The DOM is an interface for HTML. It defines the logical structure of a document and it also defines how a document is accessed and how it will be manipulated.
+The DOM represents the document as nodes and objects.
+
+
+2. List three methods to manipulate the DOM.
+
+before()
+after()
+replaceAll()
+
+
+3. What is an asynchronous call?
+
+Asynchronous calls will wait for a timer to finish or a request to respond while the rest of the code continues to execute. 
+Then when the time is right a callback will spring these asynchronous requests into action.
+
+
+4. Briefly explain what the sources tab in Chrome Developers Tools does.
+
+If you click on the sources tab you will see a list of all the files that are linked to your index.html file.
+
+
+5. What is a JavaScript promise?
+
+A promise is a proxy for a value not necessarily known when the promise is created. Instead of immediately returning the final value, it returns a promise to supply the value at some point in the future.
+
+
+6. What is an API?
+
+APIs are a way to serve data.
+
+
+7. What is a JavaScript Event?
+
+A JavaScript Event is when an event is triggered either by the browser or when a user interacts with an element on a webpage.
+
+
+8. What is event bubbling?
+
+The event starts from the deepest element or target element to its parents, then all its ancestors which are on the way to bottom to top.
